@@ -1,16 +1,15 @@
 import { Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
+import { HeaderComponent } from "./header/header.component";
 
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [RouterOutlet],
+  imports: [RouterOutlet, HeaderComponent],
   template: `
-    <h1 class="h-36 text-3xl text-center mx-auto font-bold underline bg-green-600">HEADER</h1>
-    <router-outlet />
-    <h1 class="h-36 text-3xl text-center mx-auto font-bold underline bg-green-600">FOOTER</h1>
-  `,
-  styles: [],
+    <app-header></app-header>
+    <router-outlet/>
+  `
 })
 export class AppComponent {
   title = 'alugue-agora';

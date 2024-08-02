@@ -14,8 +14,7 @@ import { Component } from '@angular/core';
     <section class="results"> 
       <h2>Main content</h2>
     </section>
-  `,
-  styles: ``
+  `
 })
 export class HomeComponent {
 
