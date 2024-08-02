@@ -11,7 +11,7 @@ export class ImovelService {
       nome: 'Acme Fresh Start Housing',
       cidade: 'São Paulo',
       estado: 'SP',
-      foto: '/assets/bernard-hermant-CLKGGwIBTaY-unsplash.jpg',
+      foto: 'bernard-hermant-CLKGGwIBTaY-unsplash.jpg',
       unidadesDisponiveis: 4,
       wifi: true,
       churrasqueira: true
@@ -21,7 +21,7 @@ export class ImovelService {
       nome: 'A113 Transitional Housing',
       cidade: 'Belo Horizonte',
       estado: 'MG',
-      foto: '/assets/brandon-griggs-wR11KBaB86U-unsplash.jpg',
+      foto: 'brandon-griggs-wR11KBaB86U-unsplash.jpg',
       unidadesDisponiveis: 0,
       wifi: false,
       churrasqueira: true
@@ -31,7 +31,7 @@ export class ImovelService {
       nome: 'Warm Beds Housing Support',
       cidade: 'Recife',
       estado: 'PE',
-      foto: '/assets/i-do-nothing-but-love-lAyXdl1-Wmc-unsplash.jpg',
+      foto: 'i-do-nothing-but-love-lAyXdl1-Wmc-unsplash.jpg',
       unidadesDisponiveis: 1,
       wifi: false,
       churrasqueira: false
@@ -41,7 +41,7 @@ export class ImovelService {
       nome: 'Homesteady Housing',
       cidade: 'São Paulo',
       estado: 'SP',
-      foto: '/assets/ian-macdonald-W8z6aiwfi1E-unsplash.jpg',
+      foto: 'ian-macdonald-W8z6aiwfi1E-unsplash.jpg',
       unidadesDisponiveis: 1,
       wifi: true,
       churrasqueira: false
@@ -51,7 +51,7 @@ export class ImovelService {
       nome: 'Happy Homes Group',
       cidade: 'Florianópolis',
       estado: 'SC',
-      foto: '/assets/krzysztof-hepner-978RAXoXnH4-unsplash.jpg',
+      foto: 'krzysztof-hepner-978RAXoXnH4-unsplash.jpg',
       unidadesDisponiveis: 1,
       wifi: true,
       churrasqueira: false
@@ -61,7 +61,7 @@ export class ImovelService {
       nome: 'Hopeful Apartment Group',
       cidade: 'Brasilia',
       estado: 'DF',
-      foto: '/assets/r-architecture-JvQ0Q5IkeMM-unsplash.jpg',
+      foto: 'r-architecture-JvQ0Q5IkeMM-unsplash.jpg',
       unidadesDisponiveis: 2,
       wifi: true,
       churrasqueira: true
@@ -71,7 +71,7 @@ export class ImovelService {
       nome: 'Seriously Safe Towns',
       cidade: 'Brasilia',
       estado: 'DF',
-      foto: '/assets/phil-hearing-IYfp2Ixe9nM-unsplash.jpg',
+      foto: 'phil-hearing-IYfp2Ixe9nM-unsplash.jpg',
       unidadesDisponiveis: 5,
       wifi: true,
       churrasqueira: true
@@ -81,7 +81,7 @@ export class ImovelService {
       nome: 'Hopeful Housing Solutions',
       cidade: 'Brasilia',
       estado: 'DF',
-      foto: '/assets/r-architecture-GGupkreKwxA-unsplash.jpg',
+      foto: 'r-architecture-GGupkreKwxA-unsplash.jpg',
       unidadesDisponiveis: 2,
       wifi: true,
       churrasqueira: true
@@ -91,7 +91,7 @@ export class ImovelService {
       nome: 'Seriously Safe Towns',
       cidade: 'Brasilia',
       estado: 'DF',
-      foto: '/assets/saru-robert-9rP3mxf8qWI-unsplash.jpg',
+      foto: 'saru-robert-9rP3mxf8qWI-unsplash.jpg',
       unidadesDisponiveis: 10,
       wifi: false,
       churrasqueira: false
@@ -101,7 +101,7 @@ export class ImovelService {
       nome: 'DFpital Safe Towns',
       cidade: 'Lavras',
       estado: 'MG',
-      foto: '/assets/webaliser-_TPTXZd9mOo-unsplash.jpg',
+      foto: 'webaliser-_TPTXZd9mOo-unsplash.jpg',
       unidadesDisponiveis: 6,
       wifi: true,
       churrasqueira: true

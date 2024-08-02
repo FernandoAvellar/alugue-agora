@@ -6,7 +6,7 @@ import { RouterModule } from '@angular/router';
   standalone: true,
   imports: [RouterModule],
   template: `
-    <header class="h-20">
+    <header class="h-full m-5">
         <a routerLink="/"><img src="logo.svg" 
         alt="logo" aria-hidden="true"></a>
     </header>
