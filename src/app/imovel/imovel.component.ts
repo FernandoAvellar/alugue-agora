@@ -1,3 +1,4 @@
+import { CommonModule } from '@angular/common';
 import { Component, Input } from '@angular/core';
 import { Imovel } from '../imovel';
 import { RouterModule } from '@angular/router';
@@ -5,7 +6,7 @@ import { RouterModule } from '@angular/router';
 @Component({
   selector: 'app-imovel',
   standalone: true,
-  imports: [RouterModule],
+  imports: [CommonModule, RouterModule],
   template: `
     <section class="bg-purple-200 rounded-2xl"> 
       <img class="w-full object-cover border size-80 mb-1 rounded-2xl " [src]="imovel.foto" alt="Foto exterior do imóvel {{ imovel.nome }}">

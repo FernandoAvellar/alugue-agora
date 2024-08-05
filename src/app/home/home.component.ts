@@ -12,7 +12,7 @@ import { ImovelComponent } from "../imovel/imovel.component";
     <section>
       <form class="p-4">
         <input class="p-2 border h-12 w-64 rounded-lg mr-2" type="text" placeholder="Filter by city">
-        <button class="text-white bg-violet-600 rounded px-4 py-2" type="button">Search</button>
+        <button class="text-white bg-violet-600 rounded px-4 py-2" type="button">Procurar</button>
       </form>
     </section>
     <section class="grid grid-row align-items-center md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-2"> 
